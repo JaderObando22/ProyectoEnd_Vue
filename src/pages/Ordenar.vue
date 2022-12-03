@@ -22,7 +22,7 @@
             <input type="email" placeholder="nombre de la comida">
         </div>
 
-        <textarea placeholder="address" name="" id="" cols="30" rows="10"></textarea>
+        <textarea placeholder="direccion" name="" id="" cols="30" rows="10"></textarea>
 
         <input type="submit" value="ordene ahora" class="btn">
     </form>
@@ -51,7 +51,7 @@
     <a href="#" class="btn">pinteres</a>
 </div>
 
-<h1 class="credit"> created by <span> Jader Obando & Jexy </span> reservado derechos de autor </h1>
+<h1 class="credit"> creado por: <span> Jader Obando & Jexi Diaz </span></h1>
 </section>
 </template>
 
