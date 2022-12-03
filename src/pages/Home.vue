@@ -15,7 +15,7 @@
     </section>
 
     <section class="wave-contenedor website">
-        <img src="" alt="">
+        <img src="../assets/ilustracion 1.jpg" alt="">
         <div class="contenedor textos main">
             <h2 class="titulo left">¡tu decision, tu comida, tu gusto!</h2>
             <p class="parrafo">un buen platillo acompañado de las personas
